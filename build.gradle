@@ -28,7 +28,7 @@ dependencies {
     implementation 'org.projectlombok:lombok:1.18.20'
     implementation 'org.springframework.boot:spring-boot-starter-actuator:2.4.5'
     runtimeOnly 'com.microsoft.sqlserver:mssql-jdbc:8.4.1.jre8'
-    testImplementation 'org.springframework.boot:spring-boot-starter-test:2.4.5'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test:2.7.5'
 }
 
 group = 'com.example'
